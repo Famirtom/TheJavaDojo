@@ -6,7 +6,7 @@ Think of this as my **code notebook**—a place where theoretical knowledge is p
 
 ---
 
-## 🏗️ Repository Structure
+##  Repository Structure
 
 The exercises and challenges are organized into distinct folders, or "genres," to facilitate focused practice and easy navigation. This categorization reflects the different areas of Java development I am currently exploring:
 
@@ -22,7 +22,7 @@ The exercises and challenges are organized into distinct folders, or "genres," t
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 If you wish to clone this repository and run the exercises:
 
@@ -40,7 +40,7 @@ If you wish to clone this repository and run the exercises:
 
 ---
 
-## 🙏 Feedback & Contact
+##  Feedback & Contact
 
 Since this repository documents my learning journey, feedback and suggestions are highly appreciated!
 
