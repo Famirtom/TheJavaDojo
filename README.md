@@ -1,4 +1,4 @@
-# 🥋 The Java Dojo: A Learning Journey
+#  The Java Dojo: A Learning Journey
 
 Welcome to **The Java Dojo**! This repository is my personal training ground for mastering the Java programming language. It serves as a categorized collection of exercises, coding challenges, and small projects designed to track my progress and solidify my understanding of various Java concepts.
 
@@ -18,7 +18,6 @@ The exercises and challenges are organized into distinct folders, or "genres," t
 | `04_Problem_Solving` | Solutions to more complex problems (e.g., sorting long lists of numbers, finding the fastest path). | **Logic** and programmer thinking. |
 | `05_Reading_Writing_Files` | Exercises on how the program can **read data from a file** (text, etc.) or **save data** to a file. | Working with computer files. |
 | `06_Parallel_Code` | Advanced exercises on making the program do **multiple things at the same time** (helpful for fast applications). | **Multi-threading** execution. |
-| `...` | *I will add new folders as I learn new and more advanced things.* | |
 
 ---
 
